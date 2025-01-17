@@ -1,15 +1,15 @@
 <h3 align="left">Hello World 👋</h3>
 <h1 align="left">Kenneth Layefa Max</h1>
-<hr>
+
 
 <h2>About Me:</h2>
-<h3>A passionate frontend developer from Nigeria.</h3>
+<p> <strong>I'm a passionate frontend developer from Nigeria.</strong></p>
 
 <p>🌱 I’m currently learning <strong>PHP and Node.js for backend development</strong></p>
 <p>📫 How to reach me: <a href="mailto:kennethlayefamax@gmail.com"><strong>kennethlayefamax@gmail.com</strong></a></p>
 <p>⚡ Fun fact: <strong>I like to memorize random facts for fun</strong></p>
 
-<h2>Connect with me:</h2>
+<p> <strong>Connect with me:</strong></p>
 <p align="left">
   <a href="https://twitter.com/layefa_max" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
@@ -21,15 +21,15 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
-<hr>
+
 
 <h2>Work Experience:</h2>
-<p>Frontend Developer at Cybernate Techsphere Enterprise, 2024 - Present</p>
-<hr>
+<ul><li>Frontend Developer at Cybernate Techsphere Enterprise, 2024 - Present</li></ul>
+
 
 <h2>Education:</h2>
-<p>Bachelor of Engineering (B.Eng) in Computer Engineering, University of Benin, 2024</p>
-<hr>
+<ul> <li>Bachelor of Engineering (B.Eng) in Computer Engineering, University of Benin, 2024</li></ul>
+
 
 <h2>Skills:</h2>
 
@@ -91,7 +91,7 @@
   </a>
 </p>
 
-<h3>Databases</h3>
+<h3>Database</h3>
 <p>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
@@ -107,7 +107,16 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
   </a>
 </p>
-<hr>
+
+<h1>Interests/Hobbies:</h1>
+<ul>
+  <li>Coding/STEM and arts</li>
+  <li>Watching videos</li>
+  <li>Listening to music</li>
+  <li>Learning Languages</li>
+  <li>Memorizing</li>
+  <li>Constant discovery of new hobbies as I learn</li>
+</ul>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=layefa-max&show_icons=true&locale=en&layout=compact" alt="layefa-max" /></p>
 
