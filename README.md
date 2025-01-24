@@ -7,6 +7,7 @@
 
 <p>🌱 I’m currently learning <strong>PHP and Node.js for backend development</strong></p>
 <p>📫 How to reach me: <a href="mailto:kennethlayefamax@gmail.com"><strong>kennethlayefamax@gmail.com</strong></a></p>
+<p>📫 Visit my website: <a href="https://layefa-max.github.io/Kennethlayefamx/" target="_blank"><strong>https://layefa-max.github.io/Kennethlayefamx/</strong></a></p>
 <p>⚡ Fun fact: <strong>I like to memorize random facts for fun</strong></p>
 
 <p> <strong>Connect with me:</strong></p>
